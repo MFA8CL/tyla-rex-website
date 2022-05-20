@@ -337,7 +337,7 @@ nav{
 }
 #preview{
     width: 300px;
-    border:1.5px solid #1712b8;
+    border:1.5px solid rgb(23, 18, 184);
     background-color: rgb(251,249,243,0.8);
     display: block;
     padding: 08px;
