@@ -337,7 +337,7 @@ nav{
 }
 #preview{
     width: 300px;
-    border:1.5px solid #1712b8;
+    border:1.5 solid #1712b8;
     background-color: rgb(251,249,243,0.8);
     display: block;
     padding: 08px;
@@ -395,7 +395,7 @@ nav{
 
 @media screen and (max-width:1200px) {
     .main-container{
-        width:95%
+        width:100%
     }
 }
 
@@ -459,7 +459,7 @@ img {
     object-fit: cover;
     border: 2px solid;
     border-color:thistle;
-    right:0px;
+    right:10px;
 }
 
 #silver{
