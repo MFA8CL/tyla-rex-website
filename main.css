@@ -407,7 +407,7 @@ nav{
         'left-column'
         'right-column'
         ;
-        width:95%;
+        width:100%;
         justify-content: center;
     }
     .album1,.album2, .album3, .album4{
